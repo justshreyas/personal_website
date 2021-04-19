@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:justshreyas_personal_website/ui/pages/home.dart';
+import 'package:personal_website/ui/pages/home.dart';
 
 class AppWrapper extends StatelessWidget {
   final Widget child;

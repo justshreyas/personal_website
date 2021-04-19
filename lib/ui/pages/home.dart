@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:justshreyas_personal_website/ui/components/full_screen_responsive_builder.dart';
-import 'package:justshreyas_personal_website/ui/components/global_scaffold.dart';
-import 'package:justshreyas_personal_website/ui/pages/work.dart';
+import 'package:personal_website/ui/components/full_screen_responsive_builder.dart';
+import 'package:personal_website/ui/components/global_scaffold.dart';
+import 'package:personal_website/ui/pages/work.dart';
 
 class Home extends StatelessWidget {
   @override
